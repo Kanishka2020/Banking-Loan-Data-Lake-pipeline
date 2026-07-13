@@ -26,3 +26,4 @@ The objective is to automate the extraction, transformation, and loading (ETL) o
 - **Power BI** – Visualization tool to create dynamic dashboards from Redshift data.
 - **Python & Pandas** – Data processing and schema extraction.
 - **Boto3** – AWS SDK for programmatic access.
+
