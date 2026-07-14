@@ -143,27 +143,25 @@ Geospatial Visualizations: Impact by region.
 ## Debugging & Troubleshooting
 Error: Redshift Connection Failed
 
-- Verify IAM Role permissions.
+- **Verify IAM Role permissions.**
     Check Redshift Security Group settings.
     Ensure correct database credentials.
     Error: COPY Command Fails
-
-- Check if S3 bucket path is correct.
+- **Check if S3 bucket path is correct.**
     Ensure the IAM Role has Amazon S3 read access.
     Verify CSV file formatting.
     Error: Power BI Connection Issues
-
-- Ensure Redshift cluster is publicly accessible.
+- **Ensure Redshift cluster is publicly accessible.**
     Check Power BI firewall settings.
     Validate Redshift connection string.
   
 ## Future Enhancements
-🔹 Implement Machine Learning Models on Redshift data for forecasting.<br>
-🔹 Optimize ETL Performance with AWS Glue crawlers and workflows.<br>
-🔹 Deploy Real-Time Analytics using AWS Kinesis.<br>
-🔹 Automate Power BI Dashboards using scheduled refresh.
+🔹 **Implement Machine Learning Models** on Redshift data for forecasting.<br>
+🔹 **Optimize ETL Performance** with AWS Glue crawlers and workflows.<br>
+🔹 **Deploy Real-Time Analytics** using AWS Kinesis.<br>
+🔹 **Automate Power BI Dashboards** using scheduled refresh.
 
 ## Next Steps
-- Explore AWS Data Lake Formation.<br>
-- Implement CI/CD for ETL pipelines.<br>
-- Enhance Power BI reporting with predictive analytics.
+- Explore **AWS Data Lake Formation**.<br>
+- Implement **CI/CD for ETL pipelines**.<br>
+- Enhance **Power BI reporting** with predictive analytics.
